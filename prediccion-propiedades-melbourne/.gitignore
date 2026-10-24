@@ -11,5 +11,4 @@
 .DS_Store
 Thumbs.db
 
-# (Opcional) Si tu dataset melb_data.csv es muy pesado o prefieres no subirlo:
 # data/melb_data.csv
