@@ -1,1 +1,15 @@
+# Historial e imágenes de sesión de R
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
 
+# Archivos de configuración personal de RStudio
+.Rproj.user/
+
+# Archivos temporales y de sistema
+.DS_Store
+Thumbs.db
+
+# (Opcional) Si tu dataset melb_data.csv es muy pesado o prefieres no subirlo:
+# data/melb_data.csv
