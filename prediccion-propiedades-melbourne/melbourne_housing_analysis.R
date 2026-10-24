@@ -1,6 +1,6 @@
 # =====================================================================
 # Melbourne Housing Market Analysis & Price Prediction Pipeline
-# Author: Andrés Peña
+# Coautores del Proyecto - Andrés Peña - Maximiliano Gallardo - Patricio Frez - Alejandro Martínez
 # Language: R
 # Dataset: Melbourne Housing Snapshot (melb_data.csv)
 # Description: Data cleaning, MICE imputation, PCA, and multiple linear
